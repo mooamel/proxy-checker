@@ -8,7 +8,7 @@ Advantages :
 ### Requirements
 
 - Python 3.9+
-- **[telegram]](https://t.me)**
+- **[telegram](https://t.me)**
 
 
 ### Installation
