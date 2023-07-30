@@ -1,11 +1,12 @@
 # proxy-checker
 **this code for checking the proxies if WOrk In t.me or Not ,
 download THIS Pkg with git ,**
-#EX :
+
+##EX :
 ```
 git clone https://github.com/muamelameer/proxy-checker.git
 ```
-#pips :
+##pips :
 ```
 pip install requests
 ```
