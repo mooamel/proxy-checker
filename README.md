@@ -15,7 +15,7 @@ Advantages :
 
 To install the development version from Github, use the following command:
 ```bash
-pip install git+https://github.com/muamelameer/userapi/userapilib.git](https://github.com/muamelameer/proxy-checker.git
+pip install git+https://github.com/muamelameer/proxy-checker.git
 ```
 
 # Thanks to
