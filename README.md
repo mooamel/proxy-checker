@@ -15,8 +15,10 @@ Advantages :
 
 To install the development version from Github, use the following command:
 ```bash
-pip install git```
-```$``` git clone https://github.com/muamelameer/proxy-checker.git
+pip install git
+```
+```bash
+git clone https://github.com/muamelameer/proxy-checker.git
 ```
 
 # Thanks to
